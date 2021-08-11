@@ -1,0 +1,3 @@
+C:/Users/CarlosViniMSouza/Documents/EngSoftware_IFAM/Logica_Prog/Aulas_Ling_C/Tarefas/cmake-build-debug/CMakeFiles/Tarefas.dir
+C:/Users/CarlosViniMSouza/Documents/EngSoftware_IFAM/Logica_Prog/Aulas_Ling_C/Tarefas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CarlosViniMSouza/Documents/EngSoftware_IFAM/Logica_Prog/Aulas_Ling_C/Tarefas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
