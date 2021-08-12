@@ -1,5 +1,5 @@
 //#include "List13Q1.c"
-#include "List13Q2.c"
+//#include "List13Q2.c"
 //#include "List13Q3.c"
 //#include "List13Q4.c"
 //#include "List14Q1.c"
@@ -17,7 +17,7 @@ int main() {
 
     /// LISTA 1
     //Question1();
-    Question2();
+    //Question2();
     //Question3();
     //Question4();
 
